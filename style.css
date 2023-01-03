@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.jumbotron {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+}
+.text {
+    width: 50%;
+    color: bisque;
+}
+
+input {
+    width: 500px;
+}
+textarea {
+    width: 500px;
+}
+
+
+
+.form{
+    background-color: silver;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+img {
+    width: 25%;
+}
+
+.card-text {
+    color: bisque;
+}
+
+.kopi-nama {
+    color: white;
+}
+
+/* .card {
+    background-color: silver;
+} */
+
+
+.form {
+    border-radius: 10px;
+}
+
+.icons {
+    font-size: 20px;
+}
+
